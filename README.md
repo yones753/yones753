@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @yones753
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in website design
+- 🌱 I’m currently learning FullStack
+- 📫 How to reach me Email deraweyones@gmail.com or 0549155448
 
-<!---
-yones753/yones753 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
